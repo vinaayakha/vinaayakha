@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects for creating data visualisations**
 
-- 👨‍💻 All of my projects are available at [this profile.](this profile.)
+- 👨‍💻 All of my projects are available at [this profile.](https://github.com/vinaayakha)
 
 - 💬 Ask me about **React, Vue, Angular2, JS that runs in chrome**
 
