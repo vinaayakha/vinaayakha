@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [this profile.](this profile.)
 
-- 💬 Ask me about **React, Vue, Angular2, any JS that runs in chrome**
+- 💬 Ask me about **React, Vue, Angular2, JS that runs in chrome**
 
 - 📫 How to reach me **vinuyer@gmail.com**
 
