@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaayakha&label=Profile%20views&color=0e75b6&style=flat" alt="vinaayakha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaayakha" alt="vinaayakha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaayakha&&theme=buddhism&margin-w=13" alt="vinaayakha" /></a> </p>
 
 - 🔭 I’m currently working on **npx create-react-app for angular like framework**
 
