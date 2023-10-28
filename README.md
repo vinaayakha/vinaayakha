@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vinayak Iyer</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey There 👋, I'm Vinayak</h1>
+<h3 align="center">Ice cream chillin'!!!!</h3>
+<h4 align="center">I work on software that creates rewarding Journies</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaayakha&label=Profile%20views&color=0e75b6&style=flat" alt="vinaayakha" /> </p>
 
